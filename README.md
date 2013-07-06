@@ -12,9 +12,14 @@
 - 修正課程教材的分項連結無法在正確框架中開啓
 - 修正教師資訊中的下拉式選單無作用的問題
 
-###### 下載
+## 下載
 [直接下載延伸功能套件](http://kojima.tw/works/ecourse_fix.safariextz)
+
+## 首頁修正預覽
 ###### Before
 ![Before](http://i.imgur.com/kKLgECz.png "Before")
 ###### After
 ![After](http://i.imgur.com/aqJkn0l.png "After")
+
+## 注意
+不保證未來是否會因為該系統的任何修改還能正常運作，本修改及套件與中正大學官方無關，純屬個人練習及多少增進美觀之用。
