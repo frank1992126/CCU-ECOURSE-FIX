@@ -13,3 +13,5 @@
 - 修正教師資訊中的下拉式選單無作用的問題
 
 [直接下載延伸功能套件](http://kojima.tw/works/ecourse_fix.safariextz)
+![Before](http://i.imgur.com/kKLgECz.png "Before")
+![After](http://i.imgur.com/aqJkn0l.png "After")
