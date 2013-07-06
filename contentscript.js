@@ -12,9 +12,11 @@ if( (document.URL.match('bar.php') != null)
 	}
 }
 //Encoding
-if(document.URL.match('login_s.php') != null) {
+if( (document.URL.match('login_s.php') != null)
+	|| (document.URL.match('take_course.php') != null)
+) {
 	document.charset = 'Big5';
-	document.title = '學生系統';
+	document.title = 'Ecourse課程平台學生系統';
 }
 
 //Index
