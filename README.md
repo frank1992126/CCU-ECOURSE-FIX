@@ -13,7 +13,7 @@
 - 修正教師資訊中的下拉式選單無作用的問題
 
 ## 下載
-[直接下載延伸功能套件](http://kojima.tw/works/ecourse_fix.safariextz)
+[延伸功能套件 for Apple Safari](http://kojima.tw/works/ecourse_fix.safariextz)
 
 ## 首頁修正預覽
 ###### Before
