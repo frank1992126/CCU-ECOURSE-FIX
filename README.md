@@ -2,7 +2,7 @@
 [ciffel/Ecourse-Fix](https://github.com/ciffel/Ecourse-Fix)
 
 ## 說明
-修正中正大學教學課程平台(ecourse)網站的相容性問題及顯示效果，這是供 Apple Safari 延伸功能建立套件的檔案架構。
+修正中正大學教學課程平台(ecourse)網站的相容性問題及顯示效果。
 
 ## 修改項目
 - 移除 ecourse 首頁上破壞排版的元素
@@ -14,6 +14,7 @@
 
 ## 下載
 [延伸功能套件 for Apple Safari](http://kojima.tw/works/ecourse_fix.safariextz)
+[使用者腳本(UserScript) for Google Chrome](https://raw.github.com/imkojima/CCU-ECOURSE-FIX/master/chrome/ecourse_fix.user.js)
 
 ## 首頁修正預覽
 ###### Before
